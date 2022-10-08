@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.85768c17.css",
+    "main.js": "/react-gh-pages/static/js/main.fbfa7813.js",
+    "static/js/787.372f5d56.chunk.js": "/react-gh-pages/static/js/787.372f5d56.chunk.js",
+    "static/media/ecommerce.jpg": "/react-gh-pages/static/media/ecommerce.0b3e9130701ab855dbf4.jpg",
+    "static/media/BallHog.jpg": "/react-gh-pages/static/media/BallHog.b34c2da7c43c7fd3b066.jpg",
+    "static/media/Scheduler.jpg": "/react-gh-pages/static/media/Scheduler.a4d085b64cf1fe89d251.jpg",
+    "static/media/Pyramid.jpg": "/react-gh-pages/static/media/Pyramid.a4c70e008c5f4a7538dd.jpg",
+    "static/media/BallRunner.jpg": "/react-gh-pages/static/media/BallRunner.dded7eefd1f1ed85cac0.jpg",
+    "static/media/passGenPic.jpg": "/react-gh-pages/static/media/passGenPic.d147382662e87d70c68e.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.85768c17.css.map": "/react-gh-pages/static/css/main.85768c17.css.map",
+    "main.fbfa7813.js.map": "/react-gh-pages/static/js/main.fbfa7813.js.map",
+    "787.372f5d56.chunk.js.map": "/react-gh-pages/static/js/787.372f5d56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85768c17.css",
+    "static/js/main.fbfa7813.js"
+  ]
+}
