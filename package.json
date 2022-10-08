@@ -10,6 +10,7 @@
     "apollo-link-jwt": "^1.1.5",
     "axios": "^1.1.2",
     "bootstrap": "^5.2.2",
+    "concurrently": "^7.4.0",
     "dotenv": "^16.0.3",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
@@ -20,6 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",

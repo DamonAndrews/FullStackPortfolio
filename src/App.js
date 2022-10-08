@@ -60,6 +60,10 @@ function App() {
                 element={<LandingPage />} 
               />
               <Route 
+                path="/FullStackPortfolio" 
+                element={<LandingPage />} 
+              />
+              <Route 
                 path="/login" 
                 element={<Login />} 
               />

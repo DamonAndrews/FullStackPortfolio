@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "https://damonandrews.github.io/FullStackPortfolio",
+  "homepage": "https://damonandrews.github.io/FullStackPortfolio/",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001",
